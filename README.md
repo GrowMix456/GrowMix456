@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Just For Fun.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **GCP**
+- ☁️ I've been interest in cloud computing. So,I'm learning **GCP**
 
 - 💬 Ask me about **NOTHING**
 
