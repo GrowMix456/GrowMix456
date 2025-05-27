@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT**
+- 🔭 I’m currently working on **HTML, CSS, JAVASCRIPT, TYPESCRIPT**
 
 - 🌱 I’m currently learning **Just For Fun.**
 
